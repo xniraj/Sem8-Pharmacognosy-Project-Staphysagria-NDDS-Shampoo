@@ -22,7 +22,7 @@ This repository documents the research and development of an innovative **Staphy
   - **pH 5.5–6.5**, **foam stability >15 mins**, and **no skin irritation**.  
 
 ### **Files Included**  
-1. **[Sem-8-Oral-Presentation.pptx](Sem-8-Oral-Presentation.pptx)**  
+1. **[Sem-8-Oral-Presentation.pptx](Sem-8-Oral-Presentation.pdf)**  
    - Detailed presentation of methodology, experimental results, and conclusions.  
 2. **[Sem-8-Poster-Presentation.pdf](Sem-8-Poster-Presentation.pdf)**  
    - Visual summary of the project, including workflow, key findings, and references.  
@@ -43,7 +43,7 @@ This repository documents the research and development of an innovative **Staphy
 
 
 ### **How to Use**  
-1. **Presentation**: Review **[Sem-8-Oral-Presentation.pptx](Sem-8-Oral-Presentation.pptx)** for experimental workflows and data.  
+1. **Presentation**: Review **[Sem-8-Oral-Presentation.pptx](Sem-8-Oral-Presentation.pdf)** for experimental workflows and data.  
 2. **Poster**: Refer to **[Sem-8-Poster-Presentation.pdf](Sem-8-Poster-Presentation.pdf)** for a visual overview of the project.  
 
 ### **References**  
